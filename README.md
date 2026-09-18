@@ -1,0 +1,1 @@
+# SwitchHardwareRefresh
