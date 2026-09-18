@@ -1,5 +1,15 @@
 # Meraki Switch Refresh Tool
 
+[![Python Check](https://github.com/kishorekumar45/meraki-switch-refresh/actions/workflows/ci.yml/badge.svgcom/kishorekumar45/meraki-switch-refresh/actions/workflows/ci.yml)
+4
+![Python](https://img.shields.io/badge/Python-3.13atform](https://img.shields.io/bm-Windows-lightgrey
+5
+![Cisco Meraki](https://img.shields.io/badge/Cisco-Meraki-67ttps://img.shields.io/badge/Source-MS120--48LP-bluemg.shields.io/badge/Target-MS130--48X-green
+6
+![API](https://img.shields.io/badge/Meraki-Dashboard_API
+7
+![Status](https://img.shields.io/badge/Status-Production_n
+
 This is the production script for migrating switch port configuration from an existing Meraki MS120-48LP switch to a replacement Meraki MS130-48X switch.
 
 This script **does** connect to Meraki Dashboard.
