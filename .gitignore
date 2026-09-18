@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# Generated migration data
+backups/
+reports/
+
+# Tests
+test/
+
+# Private Docs
+docs/
